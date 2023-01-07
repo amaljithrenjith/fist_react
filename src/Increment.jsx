@@ -23,7 +23,7 @@ function Increment() {
         <h1>I am the hide component :{counter2}</h1>
 
         <h3>gaaaaa</h3>
-        <img src="../images/fashion.jpg" alt="" />
+        <img src={require("../images/fashion.jpg")} alt="" />
 
     </div>
   )
