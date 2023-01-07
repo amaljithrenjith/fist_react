@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fist_react/static/css/main.156eb285.css",
+    "main.js": "/fist_react/static/js/main.24e91ac0.js",
+    "index.html": "/fist_react/index.html",
+    "main.156eb285.css.map": "/fist_react/static/css/main.156eb285.css.map",
+    "main.24e91ac0.js.map": "/fist_react/static/js/main.24e91ac0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.156eb285.css",
+    "static/js/main.24e91ac0.js"
+  ]
+}
